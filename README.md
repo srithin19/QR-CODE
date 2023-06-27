@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
--> Step 1: Create a user interface using HTML CSS and JAVA SCRIPT 
+-> Step 1: Create a user interface using HTML CSS and JAVA SCRIPT                                                        
 -> Step 2: Create a function to convert user message into QR code              
 -> Step 3: Import Goople chart API into your function 
 -> Step 4: Give options to the user to custommise their QR code size.
