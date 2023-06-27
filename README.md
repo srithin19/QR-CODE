@@ -2,7 +2,7 @@
 
 -> Step 1: Create a user interface using HTML CSS and JAVA SCRIPT                                                        
 -> Step 2: Create a function to convert user message into QR code              
--> Step 3: Import Goople chart API into your function 
+-> Step 3: Import Goople chart API into your function                                      
 -> Step 4: Give options to the user to custommise their QR code size.
 
 Note: We use google chart API to create QR codes for required text or url
